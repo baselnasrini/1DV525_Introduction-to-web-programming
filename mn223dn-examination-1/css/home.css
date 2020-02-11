@@ -1,0 +1,40 @@
+hmtl, body {
+    background-color: #a9aaac;
+    margin-left: 7em;
+    margin-right: 7em;
+}
+
+nav {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    background: #414142;
+    width: 100%;
+}
+
+.menu_a {
+    font-size: 150%;
+    color: #ffffff;
+    text-decoration: none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center
+}
+
+.menu_a:hover {
+    color: #000000;
+    background-color: #a9aaac;
+}
+
+section.welcome_img {
+    background-image: url("../img/welcome_img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 600px;
+}
+
+.articles_break {
+    border-color: #000000;
+  }

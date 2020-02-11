@@ -1,0 +1,12 @@
+/* TEAM */                   
+Creator: Mohammed Basel Nasrini.                  
+Site: https://www.linkedin.com/in/mohammed-basel-nasrini.
+Twitter: m_baselnasrini.   
+Location: Vaxjo, Sweden.
+			
+/* THANKS */					
+Name: Johan Leitet.
+           
+/* SITE */                 
+Last update: 2018/09/19
+Standards: HTML5, CSS3.                 
